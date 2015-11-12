@@ -6,11 +6,8 @@ Project Description
 
 
 Under the "Operators" section in Snap, there is a block called "join" which joins together the two strings you insert into the two blanks.
-
 You can also extend the join block in order to get more entries to insert more strings. 
-
 We would like to apply this same functionality to the "and" and "or" blocks so that it is more convenient to use them. 
-
 With this functionality, you would never need to nest several “and” or “or” blocks together when you have more than two inputs, and it would be much easier to read your code.
 
 
